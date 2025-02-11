@@ -11,7 +11,7 @@ build:
 
 webform:
   - name: data_to_be_encoded
-    prompt: Data to be encoded e.g. https://www.example.com
+    prompt: Data to be encoded
     type: text
 
 launch:
